@@ -12,3 +12,7 @@ e.zip 은 '이 집' 을 뜻합니다. 이 집 잘한다.에서 이 집(this hous
 - 파일명은 그 폴더명과 동일한 이름-멤버이름.md입니다.
   - ex ) `clean-architecture/clean-architecture-bleue.md`
 - 커밋도 `feautre: 폴더명-멤버이름` 으로 타이틀을 지정해주시고, 하위 메세지에는 마음껏 작성해주시면됩니다.
+  - 첫 커밋 : `feature`
+  - 그 이후 추가 내용 업데이트 : `add`
+    - 해당 내용에 대해서 추가하고 싶은 부분이 있었을시
+  - 수정시 : `fix`
