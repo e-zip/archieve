@@ -1,4 +1,9 @@
 # 클린아키텍쳐
+![Untitled](https://github.com/e-zip/archieve/assets/74856502/d108afcd-c0cf-40a0-b803-6e5690e22daf)
+- 클린 아키텍쳐 기본 형식
+
+![Untitled 1](https://github.com/e-zip/archieve/assets/74856502/0d4cd56b-f9c3-4a4b-995e-8add5ec24df0)
+- 3 Layered 구조로 분리한 클린 아키텍쳐
 
 ## Entity (엔티티)
 
